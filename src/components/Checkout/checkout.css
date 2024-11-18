@@ -1,0 +1,26 @@
+.formCheckout {
+
+justify-content: center;
+display: flex;
+padding: 10px;
+}
+
+label {
+
+padding: 10px;
+
+}
+
+form {
+display: flex;
+justify-content: center;
+
+
+}
+
+.checkout {
+display: flex;
+justify-content: center;
+margin-top: 20px;
+
+}
